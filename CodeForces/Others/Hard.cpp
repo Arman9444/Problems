@@ -1,0 +1,1 @@
+// Pretty Good Proportion - https://codeforces.com/gym/104560

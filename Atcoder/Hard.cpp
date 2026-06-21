@@ -1,0 +1,1 @@
+// Make 2-Regular Graph - https://atcoder.jp/contests/abc412/tasks/abc412_d
