@@ -36,6 +36,7 @@
 // Quartet Swapping - https://codeforces.com/contest/2102/problem/D
 // Grid Counting - https://codeforces.com/contest/2151/problem/D
 // Ghostfires - https://codeforces.com/contest/2209/problem/D
+// Fullmetal Bitchemist - https://codeforces.com/contest/2237/problem/D
 
 // FOR PRACTISE - 
 // Array and GCD - https://codeforces.com/contest/2104/problem/
